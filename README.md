@@ -3,6 +3,8 @@ img width="100"
 raw=true
 style="margin-right: 2px;"
 /> 
+## การพัฒนาแพลตฟอร์มสถานการณ์การจำลองยุทธ์ทางไซเบอร์
+## เพื่อส่งเสริมการพัฒนาตนเองและพัฒนาที่ยั่งยืนในมิติไซเบอร์ของกองทัพอากาศ
 
 <img src="/images/Background.png"
 img width="400"
@@ -10,11 +12,14 @@ raw=true
 style="margin-right: 2px;"
 /> 
 
+### ข้อมูลของการจัดการความรู้
+- วิดีทัศน์บรรยายสรุป (ความยาว 15 นาที) [Link](https://youtu.be/Sc7j_b3B2Ls).
+- เอกสารสรุปภาพรวมการจัดการความรู้ [Link](https://drive.google.com/file/d/1e6PZhVeFNjwZOOzJZr7gOG0ZWWRrwxjE/view?usp=sharing).
+- PPT สรุปผลงานการจัดการความรู้ [Link](https://drive.google.com/file/d/1OAAn5thnfFF5YlU-ZbZbUvaoABoDKajw/view?usp=sharing).
 
-[![Youtube](https://github.com/cyber-nkrafa/cyber-situation/blob/master/images/COVER.png)](https://youtu.be/Sc7j_b3B2Ls "Cyber for All")
+## งานวิจัยที่รองรับผลงานการจัดการความรู้
 
-## เริ่มต้นจากงานวิจัย
-## การพัฒนาโจทย์สถานการณ์การจำลองยุทธ์ทางไซเบอร์ของกองทัพอากาศ 
+### การพัฒนาโจทย์สถานการณ์การจำลองยุทธ์ทางไซเบอร์ของกองทัพอากาศ 
 
 ### คณะผู้วิจัย
 ```
@@ -24,11 +29,10 @@ style="margin-right: 2px;"
 ```
 ### อาจารย์ที่ปรึกษา
 ```
-ร.อ.ดร.พายัพ  ศิรินาม
+น.ต.ผศ.ดร.พายัพ  ศิรินาม
 น.อ.ศ.ดร.ประสงค์  ปราณีตพลกรัง
 ```
 <br/>
 
 ### ผลงานวิจัย
-- รูปเล่มเอกสารวิจัย [Link](https://duckduckgo.com).
-- PPT นำเสนอสรุปงานวิจัย [Link](https://duckduckgo.com).
+- PPT นำเสนอสรุปงานวิจัย [Link](https://drive.google.com/file/d/1AZnStmmrzATaxXIuvfmFyQOVXcRqb_sw/view?usp=sharing).
